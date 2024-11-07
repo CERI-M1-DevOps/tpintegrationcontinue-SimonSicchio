@@ -273,6 +273,7 @@ class ListeSimpleTest {
 		assertEquals("ListeSimple(Noeud(2), Noeud(1))", listeATester.toString());
 	}
 	
+	
 	@Test
 	void echangerMemeNoeud() {
 		listeATester.ajout(1);
